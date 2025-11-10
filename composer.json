@@ -1,5 +1,0 @@
-{
-  "name": "faisal/match-proxy",
-  "description": "PHP proxy to fetch and clean JSON data from netspor.co",
-  "require": {}
-}
